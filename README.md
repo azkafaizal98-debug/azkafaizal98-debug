@@ -1,5 +1,6 @@
-## Hi World  i'm Azka there 👋
+## Hi World  i'm Azka 👋
 
+<!-- ![img]() -->
 
 <!--
 **azkafaizal98-debug/azkafaizal98-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently working on **Home**
+- 🌱 I’m currently learning **Java** and **Godot**
+
+![Ichigo](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd295ajVpdG95ZzEwcWg0OTN0OTRyYW16ODJ2YW43ZncybXVjZmJ3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JLYQnbND9gkYU/giphy.gif)
