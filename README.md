@@ -57,3 +57,8 @@ Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/azkafaizal98-debug/azkafaizal98-debug/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/azkafaizal98-debug/azkafaizal98-debug/output/pacman-contribution-graph.svg">
 </picture>
+
+
+###
+
+<img src="https://raw.githubusercontent.com/azkafaizal98-debug/azkafaizal98-debug/output/snake.svg" alt="Snake animation" />
