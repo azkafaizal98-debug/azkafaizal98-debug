@@ -28,25 +28,28 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Home**
 - 🌱 I’m currently learning **Java** and **Godot**
+- 💬 Ask me about
+- 👋 Hiii everyone
 
-##### My Github Stats📈 : 
+
+<!-- ##### My Github Stats📈 : 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azkafaizal98-debug&show_icons=true&theme=tokyonight) -->
-![](https://github-readme-stats.vercel.app/api?username=azkafaizal98-debug&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=azkafaizal98-debug&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=azkafaizal98-debug&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=azkafaizal98-debug&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=azkafaizal98-debug&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 
 
 
 
-
+<!-- 
 ##### GitHub Trophies🏆 :
 ![](https://github-profile-trophy.vercel.app/?username=azkafaizal98-debug&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=azkafaizal98-debug&icon=0&color=0)](https://visitcount.itsvg.in)
-<!-- 
-Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=azkafaizal98-debug&icon=0&color=0)](https://visitcount.itsvg.in) -->
+<!--  -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> -->
 
 ##### Favorit Music🎶 :
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=313q7mr2fxc37mlml5a7sccnc6zy&unique={true|1|on|yes})
